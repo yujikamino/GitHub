@@ -1,0 +1,298 @@
+# LibrePlan - GanttZK module.
+# Copyright (C) 2009-2010 Fundación para o Fomento da Calidade Industrial e
+#                         Desenvolvemento Tecnolóxico de Galicia
+# Copyright (C) 2010-2012 Igalia, S.L.
+# This file is distributed under the same license as the LibrePlan package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: libreplan-1.3.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-02 12:44+0200\n"
+"PO-Revision-Date: 2012-10-25 17:47+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+
+#: ganttzk/src/main/java/org/zkoss/ganttz/DependencyList.java:216
+#: ganttzk/src/main/java/org/zkoss/ganttz/DependencyList.java:235
+msgid "Erase"
+msgstr ""
+
+#: ganttzk/src/main/java/org/zkoss/ganttz/TaskList.java:299
+#, fuzzy
+msgid "Add Dependency"
+msgstr "基準を追加"
+
+#: ganttzk/src/main/java/org/zkoss/ganttz/data/resourceload/TimeLineRole.java:58
+#, fuzzy
+msgid "Worker"
+msgstr "作業者"
+
+#: ganttzk/src/main/java/org/zkoss/ganttz/Planner.java:682
+#, fuzzy
+msgid "Show money cost bar"
+msgstr "貨幣的原価棒を表示する"
+
+#: ganttzk/src/main/resources/web/ganttz/zul/leftTasksTree.zul:29
+#, fuzzy
+msgid "Start"
+msgstr "開始"
+
+#: ganttzk/src/main/java/org/zkoss/ganttz/Planner.java:661
+#, fuzzy
+msgid "Show reported hours"
+msgstr "報告されたすべての時間を表示"
+
+#: ganttzk/src/main/resources/web/ganttz/zul/plannerLayout.zul:85
+#, fuzzy
+msgid "Show/Hide reported hours"
+msgstr "報告されたすべての時間を表示"
+
+#: ganttzk/src/main/resources/web/ganttz/zul/resourcesLoadLayout.zul:35
+#: ganttzk/src/main/resources/web/ganttz/zul/plannerLayout.zul:49
+#, fuzzy
+msgid "Zoom"
+msgstr "ズーム"
+
+#: ganttzk/src/main/java/org/zkoss/ganttz/DependencyList.java:67
+#, fuzzy
+msgid "The specified dependency is not allowed"
+msgstr "その名称は利用できません。"
+
+#: ganttzk/src/main/java/org/zkoss/ganttz/DependencyList.java:255
+#, fuzzy
+msgid "Set End-End"
+msgstr "エンドデータ"
+
+#: ganttzk/src/main/resources/web/ganttz/zul/plannerLayout.zul:78
+#, fuzzy
+msgid "Show/Hide progress"
+msgstr "進捗タイプを作成"
+
+#: ganttzk/src/main/java/org/zkoss/ganttz/data/resourceload/TimeLineRole.java:58
+#, fuzzy
+msgid "Task"
+msgstr "タスク"
+
+#: ganttzk/src/main/java/org/zkoss/ganttz/resourceload/ResourceLoadComponent.java:199
+#, fuzzy
+msgid "available effort: {0}, assigned effort: {1}"
+msgstr "割当基準要件"
+
+#: ganttzk/src/main/java/org/zkoss/ganttz/data/resourceload/TimeLineRole.java:64
+#, fuzzy
+msgid "Criterion"
+msgstr "基準"
+
+#: ganttzk/src/main/java/org/zkoss/ganttz/Planner.java:688
+#, fuzzy
+msgid "Hide money cost bar"
+msgstr "貨幣的原価棒を表示する"
+
+#: ganttzk/src/main/resources/web/ganttz/zul/plannerLayout.zul:44
+#, fuzzy
+msgid "Print"
+msgstr "プリント"
+
+#: ganttzk/src/main/java/org/zkoss/ganttz/timetracker/zoom/ZoomLevel.java:71
+#, fuzzy
+msgid "Week"
+msgstr "曜日"
+
+#: ganttzk/src/main/java/org/zkoss/ganttz/resourceload/ResourcesLoadPanel.java:501
+#, fuzzy
+msgid "filtering by name"
+msgstr "コンフィギュレーション·ユニット名"
+
+#: ganttzk/src/main/java/org/zkoss/ganttz/resourceload/ResourceLoadLeftPane.java:111
+#, fuzzy
+msgid "See scheduling"
+msgstr "スケジューリングの参照"
+
+#: ganttzk/src/main/resources/web/ganttz/zul/leftTasksTree.zul:30
+#, fuzzy
+msgid "End"
+msgstr "END（終了）"
+
+#: ganttzk/src/main/java/org/zkoss/ganttz/resourceload/ResourcesLoadPanel.java:89
+#, fuzzy
+msgid "Resources"
+msgstr "リソース"
+
+#: ganttzk/src/main/java/org/zkoss/ganttz/timetracker/TimeTracker.java:243
+#, fuzzy
+msgid "changing zoom"
+msgstr "ズーム レベル"
+
+#: ganttzk/src/main/resources/web/ganttz/zul/plannerLayout.zul:91
+msgid "Show/Hide money cost bar"
+msgstr ""
+
+#: ganttzk/src/main/resources/web/ganttz/zul/resourcesLoadLayout.zul:47
+#, fuzzy
+msgid "Group by"
+msgstr "週ごとのグループ"
+
+#: ganttzk/src/main/java/org/zkoss/ganttz/resourceload/ResourcesLoadPanel.java:90
+#, fuzzy
+msgid "Generic allocation criteria"
+msgstr "汎用の作業者割り当て"
+
+#: ganttzk/src/main/java/org/zkoss/ganttz/timetracker/zoom/ZoomLevel.java:45
+msgid "Quarter"
+msgstr ""
+
+#: ganttzk/src/main/resources/web/ganttz/zul/resourcesLoadLayout.zul:43
+#, fuzzy
+msgid "Page"
+msgstr "固定ページ"
+
+#: ganttzk/src/main/java/org/zkoss/ganttz/data/resourceload/TimeLineRole.java:58
+#, fuzzy
+msgid "None"
+msgstr "なし"
+
+#: ganttzk/src/main/resources/web/ganttz/zul/plannerLayout.zul:71
+#, fuzzy
+msgid "Flatten/Unflatten tree"
+msgstr "ツリーの平坦化成功{0} "
+
+#: ganttzk/src/main/java/org/zkoss/ganttz/data/resourceload/TimeLineRole.java:58
+#, fuzzy
+msgid "Project"
+msgstr "プロジェクト"
+
+#: ganttzk/src/main/resources/web/ganttz/zul/resourcesLoadLayout.zul:67
+#: ganttzk/src/main/resources/web/ganttz/zul/leftTasksTree.zul:28
+#, fuzzy
+msgid "Name"
+msgstr "名前"
+
+#: ganttzk/src/main/java/org/zkoss/ganttz/Planner.java:641
+#, fuzzy
+msgid "Show progress"
+msgstr "進行状況を表示"
+
+#: ganttzk/src/main/resources/web/ganttz/zul/plannerLayout.zul:67
+#, fuzzy
+msgid "Expand/Collapse all"
+msgstr "すべて展開/折りたたみ"
+
+#: ganttzk/src/main/resources/web/ganttz/zul/plannerLayout.zul:58
+#, fuzzy
+msgid "Show/Hide critical path"
+msgstr "クリティカル·パスの長さ"
+
+#: ganttzk/src/main/java/org/zkoss/ganttz/timetracker/zoom/ZoomLevel.java:32
+#, fuzzy
+msgid "Year"
+msgstr "年"
+
+#: ganttzk/src/main/java/org/zkoss/ganttz/resourceload/ResourcesLoadPanel.java:150
+#, fuzzy
+msgid "showing criteria"
+msgstr "割当基準"
+
+#: ganttzk/src/main/java/org/zkoss/ganttz/timetracker/zoom/ZoomLevel.java:58
+#, fuzzy
+msgid "Month"
+msgstr "月"
+
+#: ganttzk/src/main/resources/web/ganttz/zul/plannerLayout.zul:64
+#, fuzzy
+msgid "Show/Hide resources"
+msgstr "リソース/日"
+
+#: ganttzk/src/main/java/org/zkoss/ganttz/DependencyList.java:247
+#, fuzzy
+msgid "Set End-Start"
+msgstr "後に開始する必要があります"
+
+#: ganttzk/src/main/java/org/zkoss/ganttz/Planner.java:308
+#, fuzzy
+msgid "decreasing zoom"
+msgstr "ズーム レベル"
+
+#: ganttzk/src/main/java/org/zkoss/ganttz/Planner.java:622
+#, fuzzy
+msgid "Hide critical path"
+msgstr "クリティカル·パスの長さ"
+
+#: ganttzk/src/main/java/org/zkoss/ganttz/timetracker/zoom/ZoomLevel.java:84
+#, fuzzy
+msgid "Day"
+msgstr "日"
+
+#: ganttzk/src/main/java/org/zkoss/ganttz/Planner.java:668
+#, fuzzy
+msgid "Hide reported hours"
+msgstr "報告されたすべての時間を表示"
+
+#: ganttzk/src/main/java/org/zkoss/ganttz/resourceload/ResourceLoadComponent.java:193
+#, fuzzy
+msgid "Load: {0}%"
+msgstr "ロード"
+
+#: ganttzk/src/main/java/org/zkoss/ganttz/resourceload/ResourcesLoadPanel.java:147
+#, fuzzy
+msgid "showing resources"
+msgstr "個人着手状況"
+
+#: ganttzk/src/main/resources/web/ganttz/zul/plannerLayout.zul:61
+#, fuzzy
+msgid "Show/Hide labels"
+msgstr "ラベルによるフィルタ"
+
+#: ganttzk/src/main/java/org/zkoss/ganttz/timetracker/zoom/ZoomLevel.java:97
+#, fuzzy
+msgid "Hour"
+msgstr "%s時間"
+
+#: ganttzk/src/main/resources/web/ganttz/zul/resourcesLoadLayout.zul:90
+#: ganttzk/src/main/resources/web/ganttz/zul/plannerLayout.zul:120
+msgid "Graphics"
+msgstr ""
+
+#: ganttzk/src/main/java/org/zkoss/ganttz/DependencyList.java:251
+#, fuzzy
+msgid "Set Start-Start"
+msgstr "開始日"
+
+#: ganttzk/src/main/java/org/zkoss/ganttz/resourceload/ResourceLoadComponent.java:152
+#, fuzzy
+msgid "See resource allocation"
+msgstr "リソース割り当てタイプ"
+
+#: ganttzk/src/main/java/org/zkoss/ganttz/Planner.java:291
+#, fuzzy
+msgid "increasing zoom"
+msgstr "ズーム レベル"
+
+#: ganttzk/src/main/java/org/zkoss/ganttz/resourceload/ResourcesLoadPanel.java:467
+#, fuzzy
+msgid "Show all elements"
+msgstr "すべての要素を表示する"
+
+#: ganttzk/src/main/java/org/zkoss/ganttz/resourceload/ResourcesLoadPanel.java:466
+#, fuzzy
+msgid "All"
+msgstr "全て"
+
+#: ganttzk/src/main/resources/web/ganttz/zul/plannerLayout.zul:38
+#, fuzzy
+msgid "Refresh"
+msgstr "リフレッシュ"
+
+#: ganttzk/src/main/java/org/zkoss/ganttz/Planner.java:617
+#, fuzzy
+msgid "Show critical path"
+msgstr "クリティカル·パスの長さ"
+
+#: ganttzk/src/main/java/org/zkoss/ganttz/Planner.java:646
+#, fuzzy
+msgid "Hide progress"
+msgstr "進捗を開く"
